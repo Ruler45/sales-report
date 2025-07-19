@@ -11,7 +11,7 @@ This Power BI project provides a comprehensive and interactive dashboard to anal
 
 The report is composed of a main dashboard for a quick overview and a detailed secondary page for in-depth product analysis, accessible via bookmarks.
 
-###  KPIs (Key Performance Indicators)
+### KPIs (Key Performance Indicators)
 
 The main dashboard highlights four critical business metrics at the top:
 
@@ -22,7 +22,7 @@ The main dashboard highlights four critical business metrics at the top:
 
 ---
 
-##  visualizations and Interactivity
+## Visualizations and Interactivity
 
 The report is highly interactive, featuring filters, bookmarks, and custom tooltips to enhance the user experience.
 
